@@ -1,2 +1,2 @@
 # CodingCamp-13Oct2025-Zilkyzy
-Repository mini project coding camp software engineer revoU
+Mini Coding Project To-Do List Web Application
